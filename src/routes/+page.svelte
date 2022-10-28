@@ -1,10 +1,12 @@
+<main>
 <h1>Post-Growth Collective</h1>
-<p>A collective/cooperative of people, groups, and communities, interested in making new worlds real.</p>
-<p>Want to join or stay updated?</p>
+<p>A hummus of people, communities, bicycles, and critters, interested in making new worlds real.</p>
+<p>Want to help figure out what this thing is?</p>
 
 <form>
     <label>Name, or what you'd like to be called</label>
-    <input placeholder="Ursula Le Guin, Shevek, X Æ A-12 Musk">
+    <input>
+    <!-- <input placeholder="Ursula Le Guin, Shevek, X Æ A-12 Musk"> -->
 
     <label>Email* (the only required item)</label>
     <input>
@@ -13,34 +15,31 @@
     <input>
 
     <label>What activities would you like to see a post-growth collective focus on?</label>
-<textarea placeholder="E.g. Working on transitions in housing, transportation, food, energy, public services, in real-world communities
+    <details><summary>Examples</summary>
+<p>Real-world transitions in housing, transportation, food, energy, and public services<br><br>
 
-Investing in the building blocks of post-growth transitions
+Tools/services which could be building blocks in post-growth worlds<br><br>
 
-Creating services and convivial tools
+Sharing content and raising awareness of postgrowth values<br><br>
 
-Disseminating content and raising awareness of postgrowth
-
-Bringing to life stories, music, and cultural initiatives
-
-"></textarea>
+Bringing to life stories, music, and cultural initiatives</p></details>
+<textarea placeholder=""></textarea>
 
 <!-- <label>What groups, Substacks, clubs, communities are you part of, that could be interested in being part of a post-growth collective? (Seperate by commas)</label>
 <textarea placeholder="E.g. Soapbox project, Heated, 
 
 "></textarea> -->
 
-    <label>There is a beautiful plurality across post-growth aligned movements.</label>
     <label>Are there any groups, initiatives, or communities you're part of, that could be interested in joining a post-growth collective?</label>
-<textarea placeholder="e.g. I have a newsletter subscriber community
+    <details><summary>Examples</summary>
+        <p>I have a newsletter audience that could be interested<br><br>
 
-I lead a bike advocacy group in my city
+The bike advocacy group in my city could be interested<br><br>
 
-My peers and I at university have an academic club that would like to join.
+My academic club at university would like to join<br><br>
 
-We, the 800-person citizenry of Vatican City, would like to join the post-growth collective as a sovereign nation.
-
-"></textarea>     
+The autonomous zone of Anarres would like to be part of a post-growth collective</p></details>
+    <textarea placeholder=""></textarea>     
         <!-- re there any groups or communities that you lead or are part of, that you would like to join the collective?  (e.g. IRL group, Research network, Newsletter community?)</label> -->
 <!-- <textarea placeholder="e.g. I have a newsletter subscriber community, and they would probably like to be involved in this.
 
@@ -53,27 +52,25 @@ We, the 800-person citizenry of Vatican City, would like to join the post-growth
 "></textarea> -->
 
     <label>What are your favorite post-growth inspirations?  (Ideas, research papers, sci-fi books, quotes, real-world movements, postgrowth scenarios)</label>
-<textarea placeholder="e.g. 'Decent living with minimum energy: a global scenario' research paper
+    <details><summary>Examples</summary>
+        <p>"Decent living with minimum energy: a global scenario"<br><br>
 
-'A world where many worlds fit'
+            "A world where many worlds fit"<br><br>
 
-The writing and philosophies of Ursula Le Guin
-
-Indigenous philosophies on relationality from Turtle Island
-
-Avalon film by Barry Levinson (watched in reverse is a post-growth transition!)
-
-Zapatistas in Mexico
-
-Research and Degrowth community
-
-Twitter postgrowth / degrowth community
-
-'Tools for Conviviality' by Ivan Illich
-
-
-
-"></textarea>
+            The writing and philosophies of Ursula Le Guin<br><br>
+            
+            Indigenous philosophies on relationality from Turtle Island<br><br>
+            
+            "Avalon" by Barry Levinson (watched in reverse, is postgrowth in the USA!)<br><br>
+            
+            Zapatistas in Mexico<br><br>
+            
+            Research and Degrowth community<br><br>
+            
+            Twitter postgrowth / degrowth<br><br>
+            
+            "Tools for Conviviality" by Ivan Illich</p></details>
+    <textarea placeholder=""></textarea>
 
     <label>City</label>
     <input>
@@ -84,7 +81,7 @@ Twitter postgrowth / degrowth community
     <label>Twitter handle (while it lasts ...)</label>
     <input placeholder="">
 
-    <label>Are you okay with any of these responses being public? (So people can read them, and we can put ourselves on a map or something!)</label>
+    <label>Are you okay with any of these responses being public? (So we can put ourselves on a map or something!)</label>
     <div style="padding: 1em;">
     <div class="checkbox">
     <span>My name can be public</span>
@@ -125,7 +122,11 @@ Twitter postgrowth / degrowth community
     <br>
     <button type="submit">Submit</button>
 </form>
-
+<br>
+<footer>
+<a href="/terms">Terms of access</a> | <a href="/privacy">Privacy policy</a>
+</footer>
+</main>
 <style>
     form > label, input {
         display: block;
@@ -163,4 +164,13 @@ Twitter postgrowth / degrowth community
         margin: auto;
         display: block;
     }
+
+    details > p {
+        font-style: italic;
+    }
+
+    main {
+        padding: 0em 1em;
+    }
+
 </style>

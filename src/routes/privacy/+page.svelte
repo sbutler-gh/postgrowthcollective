@@ -1,0 +1,6 @@
+<p><strong>Privacy Policy</strong></p>
+<p>This website enables users to submit contact information through a contact form, including First Name, Last Name, email address, phone number, city, country, Twitter handle, and other data related to post-growth activities and interests.</p>
+<p>This site uses PostgresSQL databases and other detabases to store site-related content, including user-generated content, API data, and any updates to user-generated content.</p>
+<p>The site may store a local same-site cookie when you interact with the page and/or create an account, so that your session and user information can be loaded when you re-visit this page.</p>
+<p>This site and/or content/information/media on this site may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility orliability for their respective privacy policies.</p>
+<p>Your continued use of the application will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how wehandle user data and personal information, feel free to contact Sam at postgrowth@sambutler.us</p>
