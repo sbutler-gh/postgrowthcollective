@@ -1,3 +1,25 @@
+<svelte:head>
+  <title>Post-Growth Collective</title>
+
+  
+  <meta name="description" content="A hummus of people, communities, bicycles, and critters, interested in making new worlds real">
+  
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://sambutler.us/community-energy-vision/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Community Energy Vision">
+  <meta property="og:description" content="A hummus of post-growth. Help figure out what this thing is!">
+  <meta property="og:image" content="https://solar.lowtechmagazine.com/dithers/azuri-technologies.png">
+  
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="sambutler.us">
+  <meta property="twitter:url" content="https://sambutler.us/community-energy-vision/">
+  <meta property="og:title" content="Post-Growth Collective">
+  <meta property="og:description" content="A hummus of post-growth. Help figure out what this thing is!">
+  <meta name="twitter:image" content="https://solar.lowtechmagazine.com/dithers/azuri-technologies.png">
+</svelte:head>
+
 <main>
 <h1>Post-Growth Collective</h1>
 <p>A hummus of people, communities, bicycles, and critters, interested in making new worlds real.</p>
@@ -124,6 +146,9 @@ We, the 800-person citizenry of Vatican City, would like to join the post-growth
 </form>
 <br>
 <footer>
+<p>Social media preview image from <a href="https://solar.lowtechmagazine.com/2018/01/how-much-energy-do-we-need.html">Low tech magazine.</a>  
+<br>
+Language inspired by Donna Haraway.</p>
 <a href="/terms">Terms of access</a> | <a href="/privacy">Privacy policy</a>
 </footer>
 </main>
