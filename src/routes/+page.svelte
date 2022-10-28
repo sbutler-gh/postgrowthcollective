@@ -2,13 +2,13 @@
   <title>Post-Growth Collective</title>
 
   
-  <meta name="description" content="A hummus of people, communities, bicycles, and critters, interested in making new worlds real">
+  <meta name="description" content="Help figure out what this thing is!">
   
   <!-- Facebook Meta Tags -->
   <meta property="og:url" content="https://sambutler.us/community-energy-vision/">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Community Energy Vision">
-  <meta property="og:description" content="A hummus of post-growth. Help figure out what this thing is!">
+  <meta property="og:description" content="Help figure out what this thing is!">
   <meta property="og:image" content="https://solar.lowtechmagazine.com/dithers/azuri-technologies.png">
   
   <!-- Twitter Meta Tags -->
@@ -16,14 +16,14 @@
   <meta property="twitter:domain" content="sambutler.us">
   <meta property="twitter:url" content="https://sambutler.us/community-energy-vision/">
   <meta property="og:title" content="Post-Growth Collective">
-  <meta property="og:description" content="A hummus of post-growth. Help figure out what this thing is!">
+  <meta property="og:description" content="Help figure out what this thing is!">
   <meta name="twitter:image" content="https://solar.lowtechmagazine.com/dithers/azuri-technologies.png">
 </svelte:head>
 
 <main>
 <h1>Post-Growth Collective</h1>
-<p>A hummus of people, communities, bicycles, and critters, interested in making new worlds real.</p>
-<p>Want to help figure out what this thing is?</p>
+<p>A collective of people, groups, and communities, interested in making new worlds real.</p>
+<p>Want to help figure out what this thing is, or stay updated?</p>
 
 <form>
     <label>Name, or what you'd like to be called</label>
