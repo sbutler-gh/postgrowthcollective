@@ -23,7 +23,7 @@
 <main>
 <h1>Post-Growth Collective</h1>
 <p>A collective of people, groups, and communities, interested in making new worlds real.</p>
-<p>Want to help figure out what this thing is, or stay updated?</p>
+<p>Want to help figure out what this thing is?</p>
 
 <form>
     <label>Name, or what you'd like to be called</label>
